@@ -1,0 +1,213 @@
+*{margin: 0;padding: 0;}
+
+
+#para1{
+    justify-content: space-between;
+    
+}
+
+
+li img{
+    transform: .5s;
+}
+.fifty {
+    width: 50%;
+}
+
+.yelo {
+    background: #daa31c;
+}
+.card {
+    margin-top: 20px;
+}
+.fiftybox {
+    display: flex;
+    column-gap: 15px;
+}
+.org {
+    background: #ee6b2f;
+}
+
+.contentbox {
+    padding: 15px;
+}
+.w-text{color:#fff}
+li{
+    display: inline-flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    margin-left: 60px;
+    border-bottom: 2px cornflowerblue;
+    transform: .5s;
+}
+
+li img:hover{
+    scale: 1.1;
+}
+ul.main-nav li {
+    margin-left: 0;
+    padding-left: 0;
+    width: 13.8%;
+    text-align: center;
+    justify-content: center;
+    border-bottom: 4px solid;
+}
+ul.main-nav li a {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+ul.main-nav li a {
+    color: #464646;
+    text-decoration: none;
+    padding-left: 0;
+}
+ul.main-nav li img {
+    width: 40px;
+}
+
+li,a{
+    text-align: center;
+}
+.pad {
+    margin: 0 auto;
+    max-width: 1062px;
+    padding-left: 0;
+}
+.navbar-brand{
+    box-shadow: 4px;
+    display: flex;
+    padding-left: 10px;
+    width: 100%;
+    background-color: gray;
+}
+nav#nav {
+    border-bottom: solid 2px #dedede;
+    background-color: #f5f5f5!important;
+}
+ul.main-nav {
+    margin: 0 auto;
+    max-width: 913px;
+    padding-left: 0;
+}
+ul.main-nav li span {
+    height: 60px;
+}
+ul.main-nav li i {
+    font-size: 22px;
+    padding-top: 17px;
+    padding-bottom: 9px;
+}
+.pad li {
+    border-left: solid 2px #dedede;
+    padding: 9px 10px 8px 10px;
+    vertical-align: middle;
+    margin-left: 0;
+} 
+
+#nav2{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+
+}
+
+
+
+#card1{
+    position: absolute;
+    margin-left: 760px;
+}
+.pl-0 {
+    padding-left: 0;
+}
+
+#card2{
+    position: absolute;
+    margin-top: 355px;
+    margin-left: 760px;
+}
+
+
+#card3{
+    display: inline;
+    position: absolute;
+    margin-left: 420px;
+    margin-top: 645px;
+}
+
+#card4{
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
+#card5{
+    position: absolute;
+    margin-left: 840px;
+
+}
+ul.main-nav li.home:hover {
+    background: #919191;
+}
+ul.main-nav li.home {
+    border-color: #919191;
+}
+ul.main-nav li.pokedex {
+    border-color: #E3350D;
+}
+ul.main-nav li.pokedex:hover {
+    background: #E3350D;
+}
+ul.main-nav li.video {
+    border-color: #ee6b2f;
+}
+ul.main-nav li.video:hover {
+    background: #ee6b2f;
+}
+ul.main-nav li.game {
+    border-color: #e6bc2f;
+}
+ul.main-nav li.game:hover {
+    background: #e6bc2f;
+}
+ul.main-nav li.tv {
+    border-color: #4dad5b;
+}
+ul.main-nav li.tv:hover {
+    background: #4dad5b;
+}
+ul.main-nav li.events {
+    border-color: #30a7d7;
+}
+ul.main-nav li.events:hover {
+    background: #30a7d7;
+}
+ul.main-nav li.news {
+    border-color:#1b53ba;
+}
+ul.main-nav li.news:hover {
+    background: #1b53ba;
+}
+ul.main-nav li:hover a {
+    color: #fff;
+}
+.main {
+    margin: 0 auto;
+    max-width: 1062px;
+}
+.main-wrapper {
+    margin: 0 auto;
+    max-width: 913px;
+}
+
+#card-main2{
+    float: left;
+    height: 13px;
+    margin-top: 10px;
+}
+
+h4{
+    display: contents;
+    padding: 10px;
+    text-align: center;
+}
